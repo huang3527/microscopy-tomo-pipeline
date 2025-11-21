@@ -1,4 +1,4 @@
-[![CI](https://github.com/<YOUR_GITHUB_USERNAME>/microscopy-tomo-pipeline/actions/workflows/tests.yml/badge.svg)](https://github.com/<YOUR_GITHUB_USERNAME>/microscopy-tomo-pipeline/actions/workflows/tests.yml)
+[![CI](https://github.com/huang3527/microscopy-tomo-pipeline/actions/workflows/tests.yml/badge.svg)](https://github.com/huang3527/microscopy-tomo-pipeline/actions/workflows/tests.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 # microscopy-tomo-pipeline
