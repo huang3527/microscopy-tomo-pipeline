@@ -1,0 +1,13 @@
+input: "data/stack"
+output: "data/stack_aligned.npy"
+
+denoise:
+  method: "gaussian"
+  sigma: 1.0
+
+alignment:
+  upsample_factor: 10
+  reference_idx: 0
+
+reconstruction:
+  margin: 0
