@@ -27,6 +27,10 @@ dependencies = [
 dev = [
     "pytest>=7.0",
     "jupyter",
+    "pre-commit",
+    "black",
+    "ruff",
+    "isort",
 ]
 
 [project.scripts]

@@ -1,3 +1,6 @@
+[![CI](https://github.com/<YOUR_GITHUB_USERNAME>/microscopy-tomo-pipeline/actions/workflows/tests.yml/badge.svg)](https://github.com/<YOUR_GITHUB_USERNAME>/microscopy-tomo-pipeline/actions/workflows/tests.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 # microscopy-tomo-pipeline
 
 A small, generic toolbox for building microscopy tomography pipelines in Python.
